@@ -1,4 +1,4 @@
-Créez un superuser
+Créer un superuser
 ===============
 
 ````
